@@ -1,0 +1,12 @@
+#
+# Automatically generated file; DO NOT EDIT.
+# Espressif IoT Development Framework Configuration
+#
+
+#
+# SDK tool configuration
+#
+CONFIG_TOOLPREFIX="xtensa-esp32-elf-"
+CONFIG_PYTHON="python"
+# CONFIG_OPTIMIZATION_LEVEL_DEBUG is not set
+CONFIG_OPTIMIZATION_LEVEL_RELEASE=y
