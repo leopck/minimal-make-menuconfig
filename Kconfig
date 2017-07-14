@@ -2,7 +2,7 @@
 # For a description of the syntax of this configuration file,
 # see kconfig/kconfig-language.txt.
 #
-mainmenu "Espressif IoT Development Framework Configuration"
+mainmenu "Bitbake Framework Menu Configuration"
 
 
 menu "SDK tool configuration"
